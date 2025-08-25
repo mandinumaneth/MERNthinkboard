@@ -1,6 +1,6 @@
 # MERNthinkboard
 
-A collaborative note-taking app built with the MERN stack (MongoDB, Express, React, Node.js).
+A note-taking app built with the MERN stack (MongoDB, Express, React, Node.js).
 
 ## Features
 
@@ -17,11 +17,6 @@ A collaborative note-taking app built with the MERN stack (MongoDB, Express, Rea
 - **Other:** Axios, Lucide React Icons
 
 ## Getting Started
-
-### Prerequisites
-
-- Node.js & npm
-- MongoDB (local or Atlas)
 
 ### Installation
 
@@ -70,7 +65,3 @@ A collaborative note-taking app built with the MERN stack (MongoDB, Express, Rea
   "content": "Discussed project milestones and assigned tasks to team members."
 }
 ```
-
-## License
-
-MIT
